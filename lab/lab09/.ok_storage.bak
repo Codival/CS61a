@@ -1,0 +1,5 @@
+'cumulative_sum-correct', (0, 70)
+'leaves-correct', (512, 70)
+'insert-correct', (1024, 70)
+'Trees-correct', (1536, 70)
+'same_shape-correct', (2048, 70)

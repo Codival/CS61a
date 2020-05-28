@@ -1,0 +1,6 @@
+'find-correct', (0, 70)
+'scale-stream-correct', (512, 70)
+'has-cycle?-correct', (1024, 70)
+'accumulate-correct', (1536, 70)
+'list-comp-correct', (2048, 70)
+'permutations-correct', (2560, 70)

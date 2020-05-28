@@ -1,0 +1,4 @@
+'make_count_change-correct', (0, 70)
+'tail replicate-correct', (512, 70)
+'rle-correct', (1024, 70)
+'prune_small-correct', (1536, 70)

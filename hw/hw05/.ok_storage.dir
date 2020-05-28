@@ -1,0 +1,8 @@
+'VendingMachine-correct', (0, 70)
+'MissManners-correct', (512, 70)
+'make_counter-correct', (1024, 70)
+'make_withdraw-correct', (1536, 70)
+'make_joint-correct', (2048, 70)
+'make-fib-correct', (2560, 70)
+'long_paths-correct', (3072, 70)
+'add_d_leaves-correct', (3584, 70)

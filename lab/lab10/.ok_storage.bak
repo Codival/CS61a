@@ -1,0 +1,5 @@
+'Generators-correct', (0, 70)
+'Iterators-correct', (512, 70)
+'scale-correct', (1024, 70)
+'trap-correct', (1536, 70)
+'hailstone-correct', (2048, 70)

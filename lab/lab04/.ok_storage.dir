@@ -1,0 +1,5 @@
+'distance-correct', (0, 70)
+'closer_city-correct', (512, 70)
+'Mutability-correct', (1024, 70)
+'map-correct', (1536, 70)
+'pascal-correct', (2048, 70)
